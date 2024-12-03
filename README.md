@@ -3,9 +3,9 @@
 This is the official implementation of the model proposed in the paper [Devil in Shadow](https://ieeexplore.ieee.org/document/10006826) with Pytorch.
 
 ## Comparison with SOTA methods
-![image1]([/example/resultCASIA_and LAMP_cos.pdf](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/lightdifference.pdf) 
+![image1](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/lightdifference.png) 
 
-![image2](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/resultCASIA_and%20LAMP_cos.pdf)
+![image2](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/resultCASIA_and%20LAMP_cos.png)
 
 ## Install
 

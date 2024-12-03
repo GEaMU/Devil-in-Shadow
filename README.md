@@ -1,4 +1,9 @@
-# Devil in Shadow
+# Devil in Shadow: Attacking NIR-VIS Heterogeneous Face Recognition via Adversarial Shadow(IEEE TCSVT 2024)
+
+This is the official implementation of the model proposed in the paper ([here]https://ieeexplore.ieee.org/document/10006826) with Pytorch.
+
+## Comparison with SOTA methods
+
 
 ## Install
 

@@ -1,11 +1,11 @@
 # Devil in Shadow: Attacking NIR-VIS Heterogeneous Face Recognition via Adversarial Shadow(IEEE TCSVT 2024)
 
-This is the official implementation of the model proposed in the paper Devil in Shadow [here]https://ieeexplore.ieee.org/document/10006826 with Pytorch.
+This is the official implementation of the model proposed in the paper [Devil in Shadow](https://ieeexplore.ieee.org/document/10006826) with Pytorch.
 
 ## Comparison with SOTA methods
-![图片1](/example/resultCASIA_and LAMP_cos.pdf "Comparison results of AP-ARA with our proposed method on CASIA NIR-VIS 2.0 datasets and LAMP-HQ datasets. The images in the first three rows are from the CASIA NIR-VIS 2.0 datasets, while the images in the last three rows are from the LAMP-HQ datasets. The number below the image indicates the similarity score of the same target face calculated by the recognition model.")
+![image1]([/example/resultCASIA_and LAMP_cos.pdf](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/lightdifference.pdf) 
 
-![图片2](/example/lightdifference.pdf  "Schematic representation of the variation of light intensity.")
+![image2](https://github.com/GEaMU/Devil-in-Shadow/blob/main/example/resultCASIA_and%20LAMP_cos.pdf)
 
 ## Install
 
